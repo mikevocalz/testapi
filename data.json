@@ -1,0 +1,139 @@
+[
+  {
+    "id": 1,
+    "name": "Red Ranger",
+    "title": "Power Rangers Lightning Collection",
+    "season": {
+      "id": 1,
+      "name": "Dino Charge",
+      "logo": "https://static.wikia.nocookie.net/powerrangers/images/b/b9/Power_Rangers_Dino_Charge_logo.png"
+    },
+    "waves": [1],
+    "year": "2019",
+    "price": "19.99",
+    "upc": "630509808397",
+    "bio": "IT’S MORPHIN TIME! From the Beast Morphers back to the original Mighty Morphin Power Rangers, the Power Rangers have brought teamwork, action, and adventure to fans. The legacy continues with figures, vehicles, collectibles, and roleplay toys from Hasbro, celebrating ranger teams from Mighty Morphin to the Beast Morphers. Imagine all the action of Power Rangers with toys from Hasbro! (Power Rangers toys sold separately. Subject to availability.)\n\nOn a mission to find his father, Tyler Navarro instead finds the red Energem and becomes the Red Ranger. Bonded with the T-Rex Zord, Tyler leads the Dino Charge Rangers.\n\nThis 6-inch Lightning Edition Red Ranger features premium paint and decorative details inspired by the show, over 20 points of articulation for high poseability, and includes two different heads that can be swapped, one of the Ranger in his helment, and another with his helmet as Tyler Navarro. Go Go Power Rangers!",
+    "descriptions": [
+      "6-INCH SCALE COLLECTIBLE DINO CHARGE RED RANGER ACTION FIGURE: Go Go Power Rangers! This Power Rangers Lightning Collection action figure features premium painted details and decoration inspired by the original show, plus over 20 points of articulation for high poseability",
+      "PLAY OR DISPLAY MASKED OR UNMASKED: This Dino Charge Red Ranger toy includes two different heads that can be swapped, one of the Ranger in his helmet, and another without as Tyler Navarro from Dino Charge",
+      "INSPIRED BY THE SERIES POWER RANGERS DINO CHARGE: Powered by Energem crystals that had been left with prehistoric dinosaurs for safekeeping, the Dino Charge Rangers defend the Earth from interstellar outlaws.",
+      "PART OF THE POWER RANGERS LIGHTNING COLLECTION: Look for other collectible figures in this series, including the Mighty Morphin White Ranger, Mighty Morphin Lord Zedd, and Power Rangers S.P.D. Shadow Ranger."
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/71Zvyax+LAL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/714dRESNRSL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71MKPU6HZoL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81XAybilkZL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81KPXAwNYwL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81XAybilkZL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81kdgOgVy0L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Y--NyZ38L._AC_SL1500_.jpg"
+    ],
+    "age_info": "4 years and up",
+    "warning": "CHOKING HAZARD - Small parts. Not for children under 3 years.",
+    "figure_type": "Action Figure"
+  },
+  {
+    "id": 2,
+    "name": "Lord Zedd",
+    "title": "Power Rangers Lightning Collection",
+    "season": {
+      "id": 1,
+      "name": "Mighty Morphin",
+      "logo": "https://loodibee.com/wp-content/uploads/Power-Rangers-Logo-1993-1996.png"
+    },
+    "waves": [1],
+    "year": "2019",
+    "price": "19.99",
+    "upc": "630509808373",
+    "bio": "IT’S MORPHIN TIME! From the Beast Morphers back to the original Mighty Morphin Power Rangers, the Power Rangers have brought teamwork, action, and adventure to. The legacy continues with figures and more from Hasbro, celebrating ranger teams from Mighty Morphin to the Beast Morphers. (Power Rangers toys sold separately. Subject to availability.)\n\nThe show that started it all! When a group of teenagers with attitude heed the call of Zordon, they become the Mighty Morphin Power Rangers. Determined to conquer Earth, Lord Zedd challenges the Rangers himself.\n\nThis 6-inch Lightning Collection Mighty Morphin Lord Zedd features premium paint and sculpted details inspired by the original series, over 20 points of articulation for high poseability, and includes his staff with a lightning-shaped attachment that makes it look like it's blasting power, plus a growth bomb accessory that kids can imagine Lord Zedd uses to turn monsters into giant-sized enemies. Go Go Power Rangers!",
+    "descriptions": [
+      "6-Inch scale collectible power Rangers mighty morphin Lord zedd action figure: This power Rangers Lightning collection action figure features premium detailing and design and over 20 points of articulation for high pose ability.",
+      "Play or display: this mighty morphin Lord zedd figure includes his staff, plus a growth bomb accessory that kids can imagine Lord zedd uses to turn the monsters into giant-sized enemies",
+      "Inspired by the series mighty morphin power Rangers: the Emperor of evil, Lord zedd arrives on earth to punish Rita repulse after her failure to stop the power Rangers. Determined to conquer earth, Lord zedd challenges the Rangers himself.",
+      "Part of the Power Rangers Lightning collection: look for other collectible figures in this series, including Dino charge red Ranger, mighty morphin white Ranger, and power Rangers s.P.D. Shadow Ranger."
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/81aiZw8ctHL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71BAPa1vcOL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71lfWgp4yWL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Qyt1kMtlL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/816SBx6dnZL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/91so6z1c3fL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/811MFcYlTyL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Qyt1kMtlL._AC_SL1500_.jpg"
+    ],
+    "age_info": "4 years and up",
+    "warning": "CHOKING HAZARD - Small parts. Not for children under 3 years.",
+    "figure_type": "Action Figure"
+  },
+  {
+    "id": 3,
+    "name": "Shadow Ranger ",
+    "title": "Power Rangers Lightning Collection",
+    "season": {
+      "id": 1,
+      "name": "S.P.D.",
+      "logo": "https://static.wikia.nocookie.net/powerrangers/images/f/f0/Power_Rangers_SPD_S13_Logo_2005.png"
+    },
+    "waves": [1],
+    "year": "2019",
+    "price": "19.99",
+    "upc": "630509808380",
+    "bio": "ITS MORPHIN TIME From the Beast Morphers back to the original Mighty Morphin Power Rangers, the Power Rangers have brought teamwork, action, and adventure to fans. The legacy continues with figures and more from Hasbro, celebrating ranger teams from Mighty Morphin to the Beast Morphers. (Power Rangers toys sold separately. Subject to availability.) When the Space Patrol Delta A-Squad mysteriously disappears, it's up to the B-Squad to become S.P.D. Rangers and protect the Earth from its alien enemies. This 6-inch Lightning Collection Shadow Ranger features premium paint and decorative details inspired by the show, over 20 points of articulation for high poseability, two different heads with helmet of without helmet and two different sets of hands for more ways to play. Go Go Power Rangers Copyright 2018 SCG Power Rangers LLC. Hasbro and all related terms are trademarks of Hasbro.",
+    "descriptions": [
+      "6-Inch scale collectible power Rangers s.P.D. Shadow Ranger action figure: This power Rangers Lightning collection action figure features premium paint and decorative details inspired by the show, and over 20 points of articulation for high pose ability",
+      "Two different looks for play or display: this power Rangers s.P.D. Shadow Ranger figure features two different heads that can be swapped, one with his helmet and the other as Anubis cruger",
+      "Inspired by the series power Rangers s.P.D.: Commander Anubis \"Doggie\" Cruger receives a Patrol Morphed and joins the s.P.D. Rangers as the sixth, shadow Ranger",
+      "Part of the Power Rangers Lightning collection: look for other collectible figures in this series, including Dino charge red Ranger, mighty morphin white Ranger, and mighty morphin Lord zedd"
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/71I589rEGiL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/7193MThCoLL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71jbKdAan3L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81FTiiGN1UL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81+RXkmXi-L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/814dW8qHFVL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81FTiiGN1UL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Xh3PYezaL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Cuhhp88tL._AC_SL1500_.jpg"
+    ],
+    "age_info": "4 years and up",
+    "warning": "CHOKING HAZARD - Small parts. Not for children under 3 years.",
+    "figure_type": "Action Figure"
+  },
+  {
+    "id": 4,
+    "name": "White Ranger",
+    "title": "Power Rangers Lightning Collection",
+    "season": {
+      "id": 1,
+      "name": "Mighty Morphin",
+      "logo": "https://loodibee.com/wp-content/uploads/Power-Rangers-Logo-1993-1996.png"
+    },
+    "waves": [1, 7],
+    "year": "2019",
+    "price": "19.99",
+    "upc": "630509808366",
+    "bio": "IT’S MORPHIN TIME! From the Beast Morphers back to the original Mighty Morphin Power Rangers, the Power Rangers have brought teamwork, action, and adventure to fans. The legacy continues with figures, vehicles, collectibles, and roleplay toys from Hasbro, celebrating ranger teams from Mighty Morphin to the Beast Morphers. Imagine all the action of Power Rangers with toys from Hasbro!The show that started it all! When a group of teenagers with attitude heed the call of Zordon, they become the Mighty Morphin Power Rangers. The former Green Ranger, Tommy Oliver is given new power and becomes the White Ranger.This 6-inch Lightning Collection Mighty Morphin White Ranger features premium painted details and design inspired by the original series, and multiple points of articulation for high poseability. It includes two different heads that can be easily swapped, one of the Ranger in his helmet and another without his helmet inspired by the Tommy Oliver character from the original Mighty Morphin Power Rangers Series. Go Go Power Rangers!Copyright 2018 SCG Power Rangers LLC.Hasbro and all related terms are trademarks of Hasbro.",
+    "descriptions": [
+      "6-Inch scale collectible mighty morphin white Ranger action figure: go go Power Rangers! This power Rangers Lightning collection action figure features premium painted decoration and design inspired by the original series, and multiple points of articulation for high pose ability",
+      "Play or display: this white Ranger figure includes two different heads that can be swapped, one of the Ranger in his helmet, and another without his helmet as Tommy Oliver, as seen in the original Mighty Morphin power Rangers series.",
+      "Inspired by the series mighty morphin power Rangers: the show that started it all! When a group of teenagers with attitude heed the call of zordon, they become the mighty Morphin power Rangers.",
+      "Part of the Power Rangers Lightning collection: look for other collectible figures in this series, including Dino charge red Ranger, mighty morphin Lord zedd, and power Rangers s.P.D. Shadow Ranger."
+    ],
+    "images": [
+      "https://m.media-amazon.com/images/I/71ohCrZ-H4L._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81Lck2wvinL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/713VnHRmgaL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71HMuSvoUyL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/71mZBqDzNXL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81WCCUX9UxL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81WCCUX9UxL._AC_SL1500_.jpg",
+      "https://m.media-amazon.com/images/I/81eX+wfH5GL._AC_SL1500_.jpg"
+    ],
+    "age_info": "4 years and up",
+    "warning": "CHOKING HAZARD - Small parts. Not for children under 3 years.",
+    "figure_type": "Action Figure"
+  }
+]
